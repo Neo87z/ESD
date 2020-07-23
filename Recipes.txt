@@ -4,3 +4,5 @@ Welcome to my Recipe File
 
 Pudding 
 Rice
+Bean 
+Piza
